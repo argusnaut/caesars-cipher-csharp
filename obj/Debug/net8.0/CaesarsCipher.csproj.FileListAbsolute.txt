@@ -1,0 +1,14 @@
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\bin\Debug\net8.0\CaesarsCipher.exe
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\bin\Debug\net8.0\CaesarsCipher.deps.json
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\bin\Debug\net8.0\CaesarsCipher.runtimeconfig.json
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\bin\Debug\net8.0\CaesarsCipher.dll
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\bin\Debug\net8.0\CaesarsCipher.pdb
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\obj\Debug\net8.0\CaesarsCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\obj\Debug\net8.0\CaesarsCipher.AssemblyInfoInputs.cache
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\obj\Debug\net8.0\CaesarsCipher.AssemblyInfo.cs
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\obj\Debug\net8.0\CaesarsCipher.csproj.CoreCompileInputs.cache
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\obj\Debug\net8.0\CaesarsCipher.dll
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\obj\Debug\net8.0\refint\CaesarsCipher.dll
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\obj\Debug\net8.0\CaesarsCipher.pdb
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\obj\Debug\net8.0\CaesarsCipher.genruntimeconfig.cache
+C:\Users\argus\Dev\CaesarsCipher\CaesarsCipher\obj\Debug\net8.0\ref\CaesarsCipher.dll
